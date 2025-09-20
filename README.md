@@ -68,11 +68,10 @@ Built on **MediaPipe** for high-fidelity hand landmark detection, with a **custo
    source .venv/bin/activate
    pip install -r requirements.txt
 
-4.**Install additional package for TTS:**
-    ```bash
-     sudo apt-get install espeak-ng
-
-
+4. **Install additional package for TTS:**
+   ```bash
+    sudo apt-get install espeak-ng
+   
 5. **Download MediaPipe Model**
 
      Download hand_landmarker.task from Google for Developers
@@ -95,7 +94,8 @@ If you have any questions, suggestions, or collaboration ideas, feel free to rea
 
 - 👤 **Name**: Siddharth Jain  
 - 📧 **Email**: jainsid077@gmail.com 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/siddharth-jain-979a35253/]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/siddharth-jain-979a35253/)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/siddharth-jain-979a35253/](https://www.linkedin.com/in/siddharth-jain-979a35253/)  
+
 
 
 
